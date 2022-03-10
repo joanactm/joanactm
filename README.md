@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joanactm
 - 👀 I’m interested in web developing
-- 🌱 I’m currently improving HTML and CSS, and learning javascript
+- 🌱 I know HTML and CSS and I'm currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
