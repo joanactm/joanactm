@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joanactm
-- 👀 I’m interested in web developing
-- 🌱 I know HTML and CSS and I'm currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I first discovered and got to know programming in highschool, where I had a programming class and fell in love with it. Stopped for a few years, missed it and decided to come back, with the intention of furthering my knowledge and hopefully getting a job in the business, mainly (currently) in front-end/web developing.
+- 🌱 I know HTML and CSS and I'm currently learning JavaScript
+- 🗺 I’m looking to learn and connect with other developers.
 - 📫 How to reach me ...
 
 <!---
