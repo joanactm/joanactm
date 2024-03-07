@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joanactm
-- 👀 I first discovered and got to know programming in highschool, where I had a programming class and fell in love with it. Stopped for a few years, missed it and decided to come back, with the intention of furthering my knowledge and hopefully getting a job in the business, mainly (currently) in front-end/web developing.
-- 🌱 I know HTML and CSS and I'm currently learning JavaScript
-- 🗺 I’m looking to learn and connect with other developers.
+- 👀 I first discovered and got to know programming in highschool and instantly fell in love with it. Stopped for a few years, missed it and decided to come back, with the intention of furthering my knowledge and designing a future for myself.
+- 🌱 I know HTML and CSS and, currently, I've been learning JavaScript.
+- 🗺 I’m looking to learn and connect with other developers. 
 - 📫 How to reach me ...
 
 <!---
